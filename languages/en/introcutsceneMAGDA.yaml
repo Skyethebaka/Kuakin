@@ -1,0 +1,121 @@
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubLook over there!.\!<br>It's them!
+
+message_11:
+    faceset: MainCharacter_Mari
+    faceindex: 1
+    text: \n<MAGDA>Hello everyone!\!<br>How is everything going?
+
+message_12:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubEverything is going great!\!<br>Look, even KUAKIN is here!
+
+message_13:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \n<MAGDA>Hi KUAKIN\!, we missed you\!, Im glad you came.
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herMAGDA It's only been one day...
+
+message_15:
+    faceset: MainCharacter_Mari
+    faceindex: 5
+    text: \n<MAGDA>XAVIER you could try being nice at once...
+
+message_16:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 24
+    text: \kelYeah MAGDA is right.
+
+message_89:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 42
+    text: \herHmph...
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubSorry you had to hear that ANDREW
+
+message_18:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \n<ANDREW>Dont worry SOPHIA, I know XAVIER is like that sometimes
+
+message_19:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 42
+    text: \her...
+
+message_20:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \n<MAGDA>I have an idea.\!<br>Go to the PLAYGROUND, Its at the east of here.
+
+message_90:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \n<MAGDA>XAVIER can relax a litle bit there maybe...
+
+message_91:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 43
+    text: \herWhatever...
+
+
+message_21:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubThat's a great idea, lets go!
+
+message_22:
+    faceset: MainCharacter_Mari
+    faceindex: 1
+    text: \n<MAGDA>KUAKIN, remember that im going to be here if you need me.
+
+message_23:
+    faceset: MainCharacter_Basil
+    faceindex: 0
+    text: \n<ANDREW>I think im going to stay here for now too.
+
+message_24:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubThat's a shame...
+
+message_25:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubWell, goodbye for now.
+
+message_26:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelBye you two!
+
+message_27:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 42
+    text: \her...Bye
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelHey KUAKIN before going to the PLAYGROUND lets check the watermelon over there please.
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelWhat happens KUAKIN?\!<br>Let's go to show MAGDA my new blade!.
+
+
+
+
+
+

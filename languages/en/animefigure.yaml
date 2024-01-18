@@ -1,0 +1,109 @@
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: What are you two talking about?\aub
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: IT'S THAT AN ANIME FIGURE?\!<br>It's for me?\aub
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: Calm down SOPHIA\!<br>I asked for it first.\her
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: I never knew you liked those.\aub
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: I never told you because you would ask me if you can borrow them.\her
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: You're just lying XAVIER.\aub
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: KUAKIN, give it to me!\aub
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: What!?\! No!\!<br>KUAKIN give it to me!\her
+
+message_9:
+      text: Who is keeping it?
+
+message_10:
+      text: SOPHIA
+
+message_11:
+      text: XAVIER
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: I love it! Thanks KUAKIN.\aub
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 44
+      text: WHAT?!\!<br>You knew it was mine!\her
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Thanks KUAKIN!\! I aprecciate this so much.\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: But XAVIER doesn't know how to take care of them...\aub
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hi again...\! MAGDA and ANDREW invited us to a picnic, are you going?\her
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Hey KUAKIN! You know that we like when you're here\!<br>You should come more often!\aub
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Me?\! Mad?\! Don't worry I have a lot of them.\aub
+
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Why another one? \!... \!... \!<br>It's nice having extras and uhhh.... \!<br>Maybe XAVIER can keep that one...\aub
+
+
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: I LOVE THIS FIGURE!!\!<br>Thank you so much KUAKIN.\aub
+
+message_22:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Well... Everyone... Let's go.\her
+
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: KUAKIN! Where have you been buddy?\!<br>I have a theory of why XAVIER never gets his hat off...\kel
+
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Earlier this day I asked him is he was bald and... he said no...\!<br>THAT MEANS HE'S WEARING A WIG!!!\kel

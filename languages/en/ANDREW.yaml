@@ -1,0 +1,20 @@
+
+message_1:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \n<ANDREW>We will be here for you KUAKIN\!<br>Good luck!
+
+message_2:
+    faceset: MainCharacter_Basil
+    faceindex: 0
+    text: \n<ANDREW>So here you are!\!<br>Where did you go? I've never seen someone dissapear that fast.
+
+message_3:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \n<ANDREW>MAGDA is still very worried about you.\!<br>Why don't you talk to her?
+
+message_4:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \n<ANDREW>She's waiting for you.

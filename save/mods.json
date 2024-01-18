@@ -1,0 +1,15 @@
+{
+  "oneloader": true,
+  "_conflictResolutions": {},
+  "_deltaPreference": {},
+  "_autoUpdater": {
+    "check": "deny",
+    "askedYet": true,
+    "lastCheck": 0,
+    "lastCheckVersion": "1.4"
+  },
+  "saveloadplus": false,
+  "mineac": false,
+  "ratatouille": false,
+  "enabledbg": false
+}

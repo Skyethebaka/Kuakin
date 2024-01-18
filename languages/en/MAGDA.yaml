@@ -1,0 +1,106 @@
+
+message_1:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \n<MAGDA>KUAKIN!!\!<br>Oh my god, Im so happy to see you again!
+
+message_2:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \n<MAGDA>How do you manage to dissapear like that?!\!<br>I thought something bad happened!
+
+message_3:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \n<MAGDA>Im so glad you are here again.\!<br>What would I do if something bad happens to you?
+
+#--------------------------------------
+
+#FROM NOW ON, THE REST OF THE DIALOGUE IS A CINEMATIC FROM DAY 0
+
+#--------------------------------------
+message_4:
+    faceset: MainCharacter_Mari
+    faceindex: 1
+    text: \n<MAGDA>So, what are you doing today?
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: Hmmm, what a good question.\!<br>Any ideas, anyone?\kel
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: I dont have any.\aub
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: Me neither.\her
+
+message_8:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \n<ANDREW>What if we play TAG N' SEEK?\!<br>That way everyone can play.
+
+message_9:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \n<MAGDA>That sounds perfect to me!\!<br>I know KUAKIN likes to be it.
+
+message_10:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: It's decided then!\!<br>You're it KUAKIN!\aub
+
+message_11:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: Give us a little time to run tho!\!<br>Or you will catch us pretty quickly.\her
+
+message_12:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: Oops!\!<br>Looks like my hiding spot wasn't as good as I thought.\kel
+
+message_13:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \n<ANDREW>You'll never get me!
+
+message_14:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \n<ANDREW>Oh well.\!<br>I've never been good at this game.
+
+message_15:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \n<MAGDA>Turns out there aren't many spots to hide.
+
+message_16:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \n<MAGDA>Turns out there aren't many spots to hide.
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: You haven't found XAVIER yet, KUAKIN?\kel
+
+message_18:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 0
+    text: Maybe he's in the playground?\aub
+
+message_19:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 0
+    text: At least I wasn't the first one.\!<br>...right?\aub
+
+
+message_20:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: You won't TAG me this time!\her

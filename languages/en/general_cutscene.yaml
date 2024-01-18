@@ -1,0 +1,12 @@
+message_1:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \n<MAGDA>What happens KUAKIN?\!<br>You look a little scared.\!<br>Do you need a hug?
+
+message_2:
+    faceset: MainCharacter_Mari
+    faceindex: 8
+    text: \n<MAGDA>What happens \n[8]?\!<br>You look a little scared.\!<br>Do you need a hug?
+
+message_3:
+    text: You set up the ROPE.

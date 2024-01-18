@@ -1,0 +1,12 @@
+message_0:
+    text: If someone reads this, be careful because you can fall.
+
+message_1:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 45
+    text: \herWow that's super useful considering we are at the end of this path.
+
+message_2:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubCmon XAVIER don't be like that!
