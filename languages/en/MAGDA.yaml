@@ -2,7 +2,7 @@
 message_1:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \n<MAGDA>KUAKIN!!\!<br>Oh my god, Im so happy to see you again!
+    text: \n<MAGDA>KUAKIN!\!<br>Oh my god, Im so happy to see you again!
 
 message_2:
     faceset: MainCharacter_Mari
@@ -104,3 +104,14 @@ message_20:
     faceset: MainCharacters_DreamWorld
     faceindex: 38
     text: You won't TAG me this time!\her
+
+#--------------------------------------
+
+#HELL PICNIC
+
+#--------------------------------------
+
+message_21:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \n<MAGDA>Turns out there aren't many spots to hide.
