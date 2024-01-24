@@ -177,7 +177,7 @@ Game_System.prototype.initialize = function() {
         "teat","terrorist","teste","testicle","thot","tit","toilet","tramp","trannie","tranny","trojan","turd","twat","twink",
         "urine","uterus","vagina","vaginal","vibrate","virgin","vomit","vulva","wank","weenie","weewee","wetback",
         "whigger","whiskey","whitey","whore","wigger","willie","willy","wog","wop","wtf","wuss","xtc","xxx","yank",
-        "yid","zigabo",
+        "yid","zigabo","kuakin","sophia","xavier","magda","andrew","currito",
         // Names
         "aubrey","basil","bundy","gacy","hector","hero","hitler","jawsum","jinping","kel","kimjong","little","mari",
         "oj","osama","pluto","polly","putin","ripper","rococo","stalin","trump","zodiac",
