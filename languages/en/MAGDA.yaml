@@ -114,4 +114,79 @@ message_20:
 message_21:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \n<MAGDA>Turns out there aren't many spots to hide.
+    text: \n<MAGDA>\SINV[1]Hey KUAKIN!\SINV[0]
+
+message_22:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \n<MAGDA>Is everyone alright?\!<br>I have some food, if that's not the case.
+
+message_23:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: We are alright.\aub
+
+message_24:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: But the real question here would be\!<br>What the \Com[2]heck is this place?\kel
+
+message_25:
+    faceset: MainCharacter_Basil
+    faceindex: 6
+    text: \n<ANDREW>I think that's for you to figure out.
+
+message_26:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 42
+    text: The only thing we know about this place is that is full with this flesh looking thing...\her
+
+message_27:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: Um XAVIER...\!<br>I don't know how to say this but...\!<br>This flesh looking material...\aub
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: What's up with that?\her
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: It's flesh.\aub
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: ...\her
+
+message_31:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \Com[2]EW EW EW\her
+
+message_32:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: Huff...\! There's no time to waste.\!<br>We must find an exit.\her
+
+message_33:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \n<MAGDA>Great idea, XAVIER!\!<br>We found this safe spot.\!<br>You'll find us here if you need any help.
+
+message_34:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: Thank you!\!<br>See you around!\kel
+
+message_35:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \n<ANDREW>Bye everyone!
+
+message_36:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 0
+    text: Lets get going.\aub

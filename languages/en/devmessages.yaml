@@ -8,7 +8,7 @@ message_2:
     text: Do you want to continue?
 
 message_3:
-    text: The end.\!Thanks for playtesting.
+    text: This is the end of the playtest.\!Thank you for playing.
 
 message_4:
     text: Still not done. Womp womp :(
