@@ -1,21 +1,20 @@
-# =========================================================================================
-# ** WHEN CURRITO OPENS THE WATERMELON
-# =========================================================================================
-
+#=========================================================================================
+#** WHEN CURRITO OPENS THE WATERMELON
+#=========================================================================================
 message_11:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelWOAHHH\!<br>This is such a good weapon!
+    text: \kelWOAHHH! <br>This is such a good weapon!
 
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubYeah,\! Its too good\!<br>Are you sure It doens't belong to someone?
+      text: \aubYeah! It's too good! <br>...Are you sure it doesn't belong to someone?
 
 message_13:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelWhy would someone put their weapon on a watermelon?!
+    text: \kelWhy would someone put their weapon in a watermelon?!
 
 message_14:
       faceset: MainCharacters_DreamWorld
@@ -26,40 +25,34 @@ message_14:
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelKUAKIN lets see the watermelon!
+      text: \kelC'mon KUAKIN! Let's check that watermelon!
 
-# =========================================================================================
-# ** JETSTREAM SAM
-# =========================================================================================
-
+#=========================================================================================
+#** JETSTREAM SAM
+#=========================================================================================
 message_0:
-    text: \n<Samuel>Hey isn't that my blade?
+    text: \n<Samuel>\Com[2]HEY!\!<br>Isn't that my blade?
 
 message_1:
     faceset: MainCharacters_DreamWorld
     faceindex: 24
-    text: \kelUh... No??
-
-message_2:
-    faceset: MainCharacters_DreamWorld
-    faceindex: 18
-    text: \kelI found it first.
+    text: \kelUh... No?!<br>I found it at the park.
 
 message_3:
-    text: \n<SAMUEL>Well you should give it back to me.
+    text: \n<SAMUEL>I left it at the park. Give it to me now.
 
 message_4:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelWhy would i do that??\!<br>You're soo jealous
+    text: \kelYou know what this looks like?!<br>You're \sinv[1]soooo\sinv[0] jealous.
 
 message_5:
-    text: \n<SAMUEL>THAT IS LITERALLY ID LOCKED HOW ARE YOU EVEN USING IT???
+    text: \n<SAMUEL>THAT IS LITERALLY ID LOCKED! HOW ARE YOU EVEN USING IT?!
 
 message_6:
     faceset: MainCharacters_DreamWorld
     faceindex: 24
-    text: \kelWell if its your sword then why dont you fight for it?
+    text: \kelWell if you want it \sinv[1]soooooo\sinv[0] bad, why don't you fight for it?
 
 message_7:
     text: \n<SAMUEL>Well then.
@@ -71,10 +64,46 @@ message_8:
 message_9:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelWe got it!\!<br>Lets tell MAGDA and ANDREW
+    text: \kelWe got it!!<br>Lets tell MAGDA and ANDREW.
 
 message_111:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
       text:
+#=========================================================================================
+#** UNO
+#=========================================================================================
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \herI place... \!a red 8!
 
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelThen I'll place a +4!
+
+message_22:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \Com[2]WHAT?!\aub
+
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herPhew...! I have a +4 too.
+
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubBut I don't have any +4's...
+
+message_25:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelYou'll have to take eight cards then!
+
+message_26:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubCURRITO you're going to see after this...
