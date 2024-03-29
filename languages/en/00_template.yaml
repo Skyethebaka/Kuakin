@@ -61,15 +61,21 @@ message_8:
    text: >
     \>JET. SAM: \<SHOW ME A GOOD TIME CURRITO!
 
+message_27:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herNo wonder why the playground was so empty while that guy was around.
+
+message_28:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubHopefully everyone will be back soon!
+
 message_9:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelWe got it!!<br>Lets tell MAGDA and ANDREW.
+    text: \kelWe also got the sword!<br>Lets tell MAGDA and ANDREW.
 
-message_111:
-      faceset: MainCharacters_DreamWorld
-      faceindex: 2
-      text:
 #=========================================================================================
 #** UNO
 #=========================================================================================

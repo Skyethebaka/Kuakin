@@ -129,7 +129,7 @@ message_23:
 message_24:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: But the real question here would be\!<br>What the \Com[2]heck is this place?\kel
+    text: But the real question here would be:\!<br>What the \Com[2]heck is this place?\kel
 
 message_25:
     faceset: MainCharacter_Basil
@@ -144,7 +144,7 @@ message_26:
 message_27:
     faceset: MainCharacters_DreamWorld
     faceindex: 4
-    text: Um XAVIER...\!<br>I don't know how to say this but...\!<br>This flesh looking material...\aub
+    text: Um XAVIER...\!<br>I don't know how to say this but...\!<br>This flesh looking stuff...\aub
 
 message_28:
     faceset: MainCharacters_DreamWorld
